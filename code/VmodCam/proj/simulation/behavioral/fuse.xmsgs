@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/CS152B/Documents/fall2017-group1/tutorials/VmodCam/IPRepository/pcores/vmodcam_ctrl_v1_00_a/hdl/vhdl/user_logic.vhd" Line 476: Actual for formal port <arg fmt="%s" index="1">r</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="443" delta="unknown" >"C:/Xilinx/14.6/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/xps_iic_v2_03_a/hdl/vhdl/iic_pkg.vhd" Line 275: Function <arg fmt="%s" index="1">gpo_bit_used</arg> does not always return a value.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="746" delta="unknown" >"C:/Xilinx/14.6/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/microblaze_v8_50_b/hdl/vhdl/debug.vhd" Line 1961: Range is empty (null range)
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="746" delta="unknown" >"C:/Xilinx/14.6/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/mpmc_v6_06_a/hdl/vhdl/vfbc_cmd_fetch.vhd" Line 265: Range is empty (null range)
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1242" delta="unknown" >"N:/P.68d/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2268: <arg fmt="%s" index="1">&quot;ARG is too large in CONV_INTEGER&quot;</arg>: <arg fmt="%s" index="2"></arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="439" delta="unknown" >"system_hdmi_0_wrapper.vhd" Line 143: Formal port <arg fmt="%s" index="1">ch7301_sda</arg> of mode <arg fmt="%s" index="2">inout</arg> cannot be associated with actual port <arg fmt="%s" index="3">ch7301_sda</arg> of mode <arg fmt="%s" index="4">out</arg>
+</msg>
+
+<msg type="error" file="Simulator" num="777" delta="unknown" >Static elaboration of top level VHDL design unit <arg fmt="%s" index="1">system</arg> in library <arg fmt="%s" index="2">work</arg> failed
+</msg>
+
+</messages>
+

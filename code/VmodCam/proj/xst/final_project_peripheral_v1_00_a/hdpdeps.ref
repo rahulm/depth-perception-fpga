@@ -1,0 +1,23 @@
+V3 15
+EN final_project_peripheral_v1_00_a/final_project_peripheral 0 \
+      FL C:/Users/CS152B/Documents/fall2017-group1/tutorials/VmodCam/proj/pcores/final_project_peripheral_v1_00_a/data/../hdl/vhdl/final_project_peripheral.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609 LB proc_common_v3_00_a \
+      LB plbv46_slave_single_v1_01_a LB final_project_peripheral_v1_00_a \
+      PB proc_common_v3_00_a/proc_common_pkg 0 PB proc_common_v3_00_a/ipif_pkg 0 \
+      EN plbv46_slave_single_v1_01_a/plbv46_slave_single 0 \
+      EN final_project_peripheral_v1_00_a/user_logic 0
+AR final_project_peripheral_v1_00_a/final_project_peripheral/IMP 0 \
+      FL C:/Users/CS152B/Documents/fall2017-group1/tutorials/VmodCam/proj/pcores/final_project_peripheral_v1_00_a/data/../hdl/vhdl/final_project_peripheral.vhd \
+      EN final_project_peripheral_v1_00_a/final_project_peripheral 0 \
+      CP plbv46_slave_single_v1_01_a/plbv46_slave_single \
+      CP final_project_peripheral_v1_00_a/user_logic
+EN final_project_peripheral_v1_00_a/user_logic 0 \
+      FL C:/Users/CS152B/Documents/fall2017-group1/tutorials/VmodCam/proj/pcores/final_project_peripheral_v1_00_a/data/../hdl/vhdl/user_logic.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609 LB proc_common_v3_00_a \
+      PB proc_common_v3_00_a/proc_common_pkg 0
+AR final_project_peripheral_v1_00_a/user_logic/IMP 0 \
+      FL C:/Users/CS152B/Documents/fall2017-group1/tutorials/VmodCam/proj/pcores/final_project_peripheral_v1_00_a/data/../hdl/vhdl/user_logic.vhd \
+      EN final_project_peripheral_v1_00_a/user_logic 0 CP integer CP BYTE_RAM_TYPE \
+      CP std_logic CP std_logic_vector

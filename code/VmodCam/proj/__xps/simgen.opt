@@ -1,0 +1,1 @@
+ -p virtex5 -lang vhdl$(PROJECT_SEARCHPATHOPT) $(GLOBAL_SEARCHPATHOPT) -msg __xps/ise/xmsgprops.lst -s isim -X C:/Users/CS152B/Documents/fall2017-group1/tutorials/VmodCam/proj/

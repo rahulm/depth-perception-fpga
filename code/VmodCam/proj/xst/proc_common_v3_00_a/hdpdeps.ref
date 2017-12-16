@@ -1,0 +1,57 @@
+V3 34
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/counter_f.vhd 2013/06/03.19:49:46 P.68d
+EN proc_common_v3_00_a/counter_f 1512308505 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/counter_f.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611 LB unisim \
+      LB proc_common_v3_00_a PB proc_common_v3_00_a/family_support 1512308504
+AR proc_common_v3_00_a/counter_f/imp 1512308506 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/counter_f.vhd \
+      EN proc_common_v3_00_a/counter_f 1512308505 CP std_logic_vector CP std_logic \
+      CP MUXCY_L CP XORCY CP FDRE CP unsigned
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/family_support.vhd 2013/06/03.19:49:46 P.68d
+PH proc_common_v3_00_a/family_support 1512308503 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/family_support.vhd
+PB proc_common_v3_00_a/family_support 1512308504 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/family_support.vhd \
+      PH proc_common_v3_00_a/family_support 1512308503
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/ipif_pkg.vhd 2013/06/03.19:49:46 P.68d
+PH proc_common_v3_00_a/ipif_pkg 1512308511 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/ipif_pkg.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609
+PB proc_common_v3_00_a/ipif_pkg 1512308512 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/ipif_pkg.vhd \
+      PH proc_common_v3_00_a/ipif_pkg 1512308511 LB proc_common_v3_00_a \
+      PB proc_common_v3_00_a/proc_common_pkg 1512308500
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_gate128.vhd 2013/06/03.19:49:46 P.68d
+EN proc_common_v3_00_a/or_gate128 1512308509 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_gate128.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609 LB proc_common_v3_00_a
+AR proc_common_v3_00_a/or_gate128/imp 1512308510 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_gate128.vhd \
+      EN proc_common_v3_00_a/or_gate128 1512308509 CP std_logic_vector CP or_muxcy
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_muxcy.vhd 2013/06/03.19:49:46 P.68d
+EN proc_common_v3_00_a/or_muxcy 1512308501 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_muxcy.vhd \
+      PB ieee/std_logic_1164 1370735607 LB unisim
+AR proc_common_v3_00_a/or_muxcy/implementation 1512308502 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/or_muxcy.vhd \
+      EN proc_common_v3_00_a/or_muxcy 1512308501 CP std_logic_vector CP MUXCY
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd 2013/06/03.19:49:46 P.68d
+PH proc_common_v3_00_a/proc_common_pkg 1512308499 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609
+PB proc_common_v3_00_a/proc_common_pkg 1512308500 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/proc_common_pkg.vhd \
+      PH proc_common_v3_00_a/proc_common_pkg 1512308499
+FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/pselect_f.vhd 2013/06/03.19:49:46 P.68d
+EN proc_common_v3_00_a/pselect_f 1512308507 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/pselect_f.vhd \
+      PB ieee/std_logic_1164 1370735607 LB unisim LB proc_common_v3_00_a \
+      PB proc_common_v3_00_a/family_support 1512308504
+AR proc_common_v3_00_a/pselect_f/imp 1512308508 \
+      FL $XILINX/hw/XilinxProcessorIPLib/pcores/proc_common_v3_00_a/hdl/vhdl/pselect_f.vhd \
+      EN proc_common_v3_00_a/pselect_f 1512308507 CP integer CP std_logic_vector \
+      CP natural CP positive CP MUXCY
